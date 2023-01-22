@@ -1,0 +1,243 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.travelwithus8 {
+  position: absolute;
+  top: 47px;
+  left: 73px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+}
+.group-child13,
+.login8 {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.group-child13 {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-blue-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  box-sizing: border-box;
+  width: 115px;
+  height: 40px;
+}
+.login8 {
+  border: 0;
+  background-color: transparent;
+  top: 6px;
+  left: 26px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 0;
+  left: 532px;
+  width: 115px;
+  height: 40px;
+}
+.home8 {
+  position: relative;
+  font-weight: 500;
+}
+.home-parent5 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.cities-child,
+.group-parent9 {
+  position: absolute;
+  top: 40px;
+  left: 647px;
+  width: 647px;
+  height: 40px;
+}
+.cities-child {
+  top: 961.5px;
+  left: 0;
+  width: 1457px;
+  height: 1px;
+}
+.copyright-design5,
+.privacy-policy5,
+.terms-of-use5 {
+  position: absolute;
+  top: 987px;
+  left: 45px;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 377px;
+  height: 16px;
+}
+.privacy-policy5,
+.terms-of-use5 {
+  left: 1008px;
+  width: 118px;
+}
+.privacy-policy5 {
+  left: 1273px;
+  width: 125px;
+}
+.cities-item {
+  position: absolute;
+  top: 452px;
+  left: 64px;
+  border-radius: var(--br-sm);
+  background: linear-gradient(
+    180deg,
+    rgba(120, 67, 131, 0),
+    rgba(120, 67, 131, 0.92),
+    rgba(120, 67, 131, 0.63) 99.99%,
+    rgba(120, 67, 131, 0)
+  );
+  width: 1294px;
+  height: 268px;
+}
+.entire-city-of {
+  position: absolute;
+  top: 249px;
+  left: 576px;
+  font-size: var(--font-size-3xl);
+  font-weight: 900;
+}
+.cities-child1,
+.cities-child2,
+.cities-inner {
+  position: absolute;
+  top: 336px;
+  left: 160px;
+  border-radius: var(--br-sm);
+  width: 348px;
+  height: 328px;
+  object-fit: cover;
+}
+.cities-child1,
+.cities-child2 {
+  left: 538px;
+}
+.cities-child2 {
+  left: 916px;
+}
+.cities-child3,
+.cities-child4,
+.cities-child5 {
+  position: absolute;
+  top: 564px;
+  left: 160px;
+  border-radius: 0 0 var(--br-sm) var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 348px;
+  height: 100px;
+}
+.cities-child4,
+.cities-child5 {
+  top: 565px;
+  left: 538px;
+}
+.cities-child5 {
+  left: 916px;
+}
+.booking-id-98374326,
+.pkr-1250002 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.booking-id-98374326 {
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.istanbul-turkey1 {
+  margin: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.pkr-125000-booking-container2,
+.pkr-230000-booking-container2,
+.pkr-247000-booking-container2 {
+  position: absolute;
+  top: 574px;
+  left: 179px;
+  line-height: 27px;
+  font-weight: 900;
+  font-size: var(--font-size-sm);
+  color: var(--color-red);
+}
+.pkr-230000-booking-container2,
+.pkr-247000-booking-container2 {
+  left: 558px;
+}
+.pkr-247000-booking-container2 {
+  left: 936px;
+}
+.cities-child6,
+.cities-child7,
+.cities-child8 {
+  position: absolute;
+  top: 580px;
+  left: 417px;
+  width: 73px;
+  height: 73px;
+}
+.cities-child7,
+.cities-child8 {
+  left: 796px;
+}
+.cities-child8 {
+  left: 1174px;
+}
+.group-child14,
+.vector-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 66px;
+  height: 66px;
+}
+.vector-icon4 {
+  height: 32.07%;
+  width: 59.23%;
+  top: 34.73%;
+  right: 19.63%;
+  bottom: 33.19%;
+  left: 21.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 687px;
+  left: 678px;
+  width: 66px;
+  height: 66px;
+}
+.cities8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

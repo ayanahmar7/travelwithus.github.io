@@ -1,0 +1,217 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.travelwithus9 {
+  position: absolute;
+  top: 47px;
+  left: 73px;
+  font-weight: 700;
+}
+.group-child15,
+.login9 {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.group-child15 {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-blue-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  box-sizing: border-box;
+  width: 115px;
+  height: 40px;
+}
+.login9 {
+  border: 0;
+  background-color: transparent;
+  top: 6px;
+  left: 26px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 0;
+  left: 532px;
+  width: 115px;
+  height: 40px;
+}
+.home9 {
+  cursor: pointer;
+}
+.airlines9,
+.home9 {
+  position: relative;
+  font-weight: 500;
+}
+.home-parent6 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.group-parent10 {
+  position: absolute;
+  top: 40px;
+  left: 720px;
+  width: 647px;
+  height: 40px;
+  font-size: var(--font-size-base);
+}
+.airlines-info-child {
+  position: absolute;
+  top: 966.5px;
+  left: 0;
+  width: 1457px;
+  height: 1px;
+}
+.copyright-design6,
+.privacy-policy6,
+.terms-of-use6 {
+  position: absolute;
+  top: 987px;
+  left: 45px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 377px;
+  height: 16px;
+}
+.privacy-policy6,
+.terms-of-use6 {
+  left: 1008px;
+  width: 118px;
+}
+.privacy-policy6 {
+  left: 1273px;
+  width: 125px;
+}
+.airlines-info-item {
+  position: absolute;
+  top: 263px;
+  left: 0;
+  background: linear-gradient(
+    180deg,
+    #703479,
+    rgba(115, 59, 125, 0.97) 19.27%,
+    rgba(120, 67, 131, 0.92) 80.21%,
+    rgba(145, 107, 157, 0.71) 99.98%,
+    rgba(120, 67, 131, 0.92) 99.99%,
+    rgba(229, 244, 247, 0)
+  );
+  width: 1440px;
+  height: 476px;
+}
+.airlines-info-inner {
+  position: absolute;
+  top: 311px;
+  left: 64px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  width: 1312px;
+  height: 379px;
+}
+.airlines-info-child1,
+.top-airlines-collaboration {
+  position: absolute;
+  top: 372px;
+  left: 151px;
+}
+.airlines-info-child1 {
+  top: 420px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.airlines-info-child2,
+.airlines-info-child3,
+.airlines-info-child4 {
+  position: absolute;
+  top: 415px;
+  left: 561px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.airlines-info-child3,
+.airlines-info-child4 {
+  top: 500px;
+  left: 151px;
+}
+.airlines-info-child4 {
+  top: 495px;
+  left: 561px;
+  width: 65px;
+  height: 65px;
+}
+.airlines-info-child5,
+.airlines-info-child6 {
+  position: absolute;
+  top: 580px;
+  left: 151px;
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.airlines-info-child6 {
+  left: 561px;
+}
+.badal-airline,
+.biman-bd-airline {
+  position: absolute;
+  top: 436px;
+  left: 246px;
+}
+.badal-airline {
+  top: 513px;
+}
+.airblue-airline,
+.raza-airline {
+  position: absolute;
+  top: 595px;
+  left: 246px;
+}
+.airblue-airline {
+  left: 665px;
+}
+.pakistan-international-airline {
+  position: absolute;
+  top: 512px;
+  left: 661px;
+}
+.dh-oqf9w-y-icon,
+.eithad-airlines {
+  position: absolute;
+  top: 430px;
+  left: 661px;
+}
+.dh-oqf9w-y-icon {
+  top: 312px;
+  left: 1035px;
+  width: 341px;
+  height: 379px;
+  object-fit: cover;
+}
+.airlines-info {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

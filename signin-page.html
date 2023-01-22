@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./signin-page.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lexend Deca:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="signin-page">
+      <div class="vectors">
+        <img class="vector-icon5" alt="" src="public/vector5.svg" /><img
+          class="vector-icon5"
+          alt=""
+          src="public/vector6.svg"
+        />
+      </div>
+      <div class="form">
+        <div class="section-forgot">
+          <div class="forgot-password">Forgot password?</div>
+          <div class="remember-me">Remember me</div>
+          <div class="section-forgot-child"></div>
+        </div>
+        <div class="login-btn" id="loginBtn">
+          <div class="rectangle"></div>
+          <button class="login10">login</button>
+        </div>
+        <div class="password">
+          <div class="rectangle1"></div>
+          <div class="password1">Password</div>
+        </div>
+        <div class="username">
+          <div class="rectangle1"></div>
+          <div class="login11">Login</div>
+        </div>
+        <div class="sign-in-and">
+          Sign in and start for a memorable vacation
+        </div>
+        <div class="sign-in">Sign in</div>
+      </div>
+    </div>
+
+    <script>
+      var loginBtn = document.getElementById("loginBtn");
+      if (loginBtn) {
+        loginBtn.addEventListener("click", function (e) {
+          window.location.href = "/";
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,220 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.travelwithus5 {
+  position: absolute;
+  top: 47px;
+  left: 73px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+}
+.group-child5,
+.login5 {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.group-child5 {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-blue-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  box-sizing: border-box;
+  width: 115px;
+  height: 40px;
+}
+.login5 {
+  border: 0;
+  background-color: transparent;
+  top: 6px;
+  left: 26px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 532px;
+  width: 115px;
+  height: 40px;
+}
+.home5 {
+  position: relative;
+  font-weight: 500;
+}
+.home-parent2 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.group-parent6 {
+  position: absolute;
+  top: 40px;
+  left: 647px;
+  width: 647px;
+  height: 40px;
+  font-size: var(--font-size-base);
+}
+.cities-info2-child {
+  position: absolute;
+  top: 954.5px;
+  left: 0;
+  width: 1457px;
+  height: 1px;
+}
+.copyright-design2,
+.privacy-policy2,
+.terms-of-use2 {
+  position: absolute;
+  top: 980px;
+  left: 45px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 377px;
+  height: 16px;
+}
+.privacy-policy2,
+.terms-of-use2 {
+  left: 1008px;
+  width: 118px;
+}
+.privacy-policy2 {
+  left: 1273px;
+  width: 125px;
+}
+.cities-info2-inner,
+.cities-info2-item {
+  position: absolute;
+  top: 864px;
+  width: 30px;
+  height: 23px;
+}
+.cities-info2-item {
+  left: 701px;
+  cursor: pointer;
+}
+.cities-info2-inner {
+  left: 764px;
+}
+.cities-info2-child1,
+.cities-info2-child2,
+.rectangle-icon {
+  position: absolute;
+  top: 334px;
+  left: 187px;
+  border-radius: var(--br-md);
+  width: 204px;
+  height: 312px;
+  object-fit: cover;
+}
+.cities-info2-child1,
+.cities-info2-child2 {
+  left: 408px;
+  height: 246px;
+}
+.cities-info2-child2 {
+  left: 629px;
+  height: 312px;
+}
+.cities-info2-child3 {
+  position: absolute;
+  top: 496px;
+  left: 412px;
+  border-radius: 0 var(--br-md) var(--br-md) var(--br-md);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(222, 235, 239, 0.25);
+  width: 332px;
+  height: 100px;
+}
+.blue-mosque,
+.div {
+  position: absolute;
+  top: 504px;
+  left: 697px;
+}
+.blue-mosque {
+  left: 435px;
+  color: #0e0000;
+}
+.cities-info2-child4,
+.group-child6 {
+  position: absolute;
+  top: 533px;
+  left: 435px;
+  width: 286.5px;
+  height: 2px;
+}
+.group-child6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: #ff9100;
+  width: 100px;
+  height: 40px;
+}
+.book-now {
+  position: absolute;
+  top: 10px;
+  left: 9px;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 546px;
+  left: 435px;
+  width: 100px;
+  height: 40px;
+  color: var(--color-white);
+}
+.vector-icon2 {
+  position: absolute;
+  height: 1.86%;
+  width: 1.46%;
+  top: 49.41%;
+  right: 52.15%;
+  bottom: 48.73%;
+  left: 46.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.blue-mosque-turkey,
+.weclome-to-blue {
+  position: absolute;
+  top: 361px;
+  left: 890px;
+}
+.blue-mosque-turkey {
+  top: 397px;
+  font-size: 41px;
+}
+.lorem-ipsum-dolor {
+  position: absolute;
+  top: 464px;
+  left: 898px;
+  display: inline-block;
+  width: 396px;
+  height: 164px;
+}
+.cities-info2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

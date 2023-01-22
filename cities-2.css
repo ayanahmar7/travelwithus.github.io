@@ -1,0 +1,294 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.travelwithus7 {
+  position: absolute;
+  top: 47px;
+  left: 73px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  color: var(--color-black);
+}
+.group-child12,
+.login7 {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+}
+.group-child12 {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-blue-100);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  box-sizing: border-box;
+  width: 115px;
+  height: 40px;
+}
+.login7 {
+  border: 0;
+  background-color: transparent;
+  top: 6px;
+  left: 26px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 0;
+  left: 532px;
+  width: 115px;
+  height: 40px;
+}
+.home7 {
+  position: relative;
+  font-weight: 500;
+}
+.home-parent4 {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.complete-cities-list,
+.group-parent8 {
+  position: absolute;
+  color: var(--color-black);
+}
+.group-parent8 {
+  top: 40px;
+  left: 647px;
+  width: 647px;
+  height: 40px;
+  font-size: var(--font-size-base);
+}
+.complete-cities-list {
+  top: 118px;
+  left: 612px;
+  font-size: var(--font-size-3xl);
+  font-weight: 900;
+  text-align: center;
+}
+.cities-2-child {
+  position: absolute;
+  top: 153px;
+  left: 73px;
+  border-radius: var(--br-sm);
+  background: linear-gradient(
+    180deg,
+    rgba(120, 67, 131, 0),
+    rgba(120, 67, 131, 0.92),
+    rgba(120, 67, 131, 0.63) 99.99%,
+    rgba(120, 67, 131, 0)
+  );
+  width: 1294px;
+  height: 792px;
+}
+.cities-2-child1,
+.cities-2-inner,
+.cities-2-item {
+  position: absolute;
+  top: 172px;
+  border-radius: var(--br-sm);
+  width: 348px;
+  height: 328px;
+  object-fit: cover;
+}
+.cities-2-item {
+  left: 169px;
+  cursor: pointer;
+}
+.cities-2-child1,
+.cities-2-inner {
+  left: 547px;
+}
+.cities-2-child1 {
+  left: 925px;
+}
+.cities-2-child2,
+.cities-2-child3,
+.cities-2-child4 {
+  position: absolute;
+  top: 400px;
+  left: 169px;
+  border-radius: 0 0 var(--br-sm) var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 348px;
+  height: 100px;
+}
+.cities-2-child3,
+.cities-2-child4 {
+  top: 401px;
+  left: 547px;
+}
+.cities-2-child4 {
+  left: 925px;
+}
+.booking-id-9837432,
+.pkr-125000 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.booking-id-9837432 {
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.istanbul-turkey {
+  margin: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.pkr-125000-booking-container,
+.pkr-230000-booking-container,
+.pkr-247000-booking-container {
+  position: absolute;
+  top: 410px;
+  left: 188px;
+  line-height: 27px;
+  font-weight: 900;
+}
+.pkr-230000-booking-container,
+.pkr-247000-booking-container {
+  left: 567px;
+}
+.pkr-247000-booking-container {
+  left: 945px;
+}
+.cities-2-child5,
+.cities-2-child6,
+.cities-2-child7 {
+  position: absolute;
+  top: 416px;
+  left: 426px;
+  width: 73px;
+  height: 73px;
+}
+.cities-2-child6,
+.cities-2-child7 {
+  left: 805px;
+}
+.cities-2-child7 {
+  left: 1183px;
+}
+.cities-2-child10,
+.cities-2-child8,
+.cities-2-child9 {
+  position: absolute;
+  top: 584px;
+  left: 168px;
+  border-radius: var(--br-sm);
+  width: 348px;
+  height: 328px;
+  object-fit: cover;
+}
+.cities-2-child10,
+.cities-2-child9 {
+  left: 546px;
+}
+.cities-2-child10 {
+  left: 925px;
+  height: 278px;
+}
+.cities-2-child11,
+.cities-2-child12,
+.cities-2-child13 {
+  position: absolute;
+  top: 812px;
+  left: 168px;
+  border-radius: 0 0 var(--br-sm) var(--br-sm);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 348px;
+  height: 100px;
+}
+.cities-2-child12,
+.cities-2-child13 {
+  top: 813px;
+  left: 546px;
+}
+.cities-2-child13 {
+  left: 924px;
+}
+.pkr-125000-booking-container1 {
+  position: absolute;
+  top: 822px;
+  left: 187px;
+  line-height: 27px;
+  font-weight: 900;
+}
+.pkr-230000-booking-container1,
+.pkr-247000-booking-container1 {
+  position: absolute;
+  top: 822px;
+  left: 566px;
+  line-height: 27px;
+  font-weight: 900;
+}
+.pkr-247000-booking-container1 {
+  left: 944px;
+}
+.cities-2-child14,
+.cities-2-child15,
+.cities-2-child16 {
+  position: absolute;
+  top: 828px;
+  left: 425px;
+  width: 73px;
+  height: 73px;
+}
+.cities-2-child15,
+.cities-2-child16 {
+  left: 804px;
+}
+.cities-2-child16 {
+  left: 1182px;
+}
+.cities-2-child17 {
+  position: absolute;
+  top: 962.5px;
+  left: 0;
+  width: 1457px;
+  height: 1px;
+}
+.copyright-design4,
+.privacy-policy4,
+.terms-of-use4 {
+  position: absolute;
+  top: 988px;
+  left: 45px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 377px;
+  height: 16px;
+}
+.privacy-policy4,
+.terms-of-use4 {
+  left: 1008px;
+  width: 118px;
+}
+.privacy-policy4 {
+  left: 1273px;
+  width: 125px;
+}
+.cities-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-red);
+  font-family: var(--font-roboto);
+}

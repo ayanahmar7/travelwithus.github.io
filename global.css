@@ -1,0 +1,32 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-lexend-deca: "Lexend Deca";
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-xs: 16px;
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 24px;
+  --font-size-xl: 25px;
+  --font-size-2xl: 26px;
+  --font-size-3xl: 30px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-blue-100: #273bf4;
+  --color-gray-100: #a7a7a7;
+  --color-gray-200: #7d7d7d;
+  --color-black: #000;
+  --color-red: #f21818;
+  --color-teal: #224957;
+  --color-violet: rgba(134, 109, 204, 0.8);
+
+  /* Gaps */
+  --gap-md: 50px;
+
+  /* border radiuses */
+  --br-sm: 10px;
+  --br-md: 20px;
+}
